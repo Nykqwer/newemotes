@@ -571,6 +571,7 @@ local function addEmote(name, id, price, date)
     })
 end
 
+addEmote("Basketball Head (by Voxelates)", 107282826166809, 50, "Oct 30, 2025")
 addEmote("tyla dance (pop like this)", 110194677145243, 0, "Oct 14, 2025")  -- Tyla Dance (Pop Like This) :contentReference[oaicite:0]{index=0}  
 addEmote("apple store girl (do you want me)", 129090921002373, 0, "Oct 14, 2025")  
 addEmote("dancing with your eyes closed", 129637389787927, 0, "Oct 14, 2025")  -- Dancing With Your Eyes Closed :contentReference[oaicite:1]{index=1}  
