@@ -570,6 +570,8 @@ local function addEmote(name, id, price, date)
         sort = {}
     })
 end
+addEmote("Don’t Start Now (by Motion CO.)", 124871427411900, 50, "Jan 1, 2026") 
+addEmote("Ya Ya Ying Dance (by emotify)", 86783144948976, 50, "Jan 1, 2026")
 
 addEmote("Basketball Head (by Voxelates)", 107282826166809, 50, "Oct 30, 2025")
 addEmote("tyla dance (pop like this)", 110194677145243, 0, "Oct 14, 2025")  -- Tyla Dance (Pop Like This) :contentReference[oaicite:0]{index=0}  
